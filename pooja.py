@@ -1,1 +1,1 @@
-print("Hello world")
+life is boring
